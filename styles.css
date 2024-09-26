@@ -18,6 +18,9 @@
         margin: 0 auto;
         background: white;
         box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        height: 1100px; /* Ajuste o valor conforme necessário */
+        overflow: hidden; /* Isso impede que o conteúdo ultrapasse a altura definida */
+
     }
     
     body {
@@ -229,7 +232,7 @@
         font-weight: bold;
     }
     .progress-bar2 {
-        width: 50%; /* Ajuste a largura para simular o progresso */
+        width: 80%; /* Ajuste a largura para simular o progresso */
         height: 100%;
         background-color: #000000;
         text-align: center;
@@ -268,6 +271,36 @@
 
     .progress-bar6 {
         width: 90%; /* Ajuste a largura para simular o progresso */
+        height: 100%;
+        background-color: #000000;
+        text-align: center;
+        line-height: 30px;
+        color: white;
+        font-weight: bold;
+    }
+
+    .progress-bar7 {
+        width: 20%; /* Ajuste a largura para simular o progresso */
+        height: 100%;
+        background-color: #000000;
+        text-align: center;
+        line-height: 30px;
+        color: white;
+        font-weight: bold;
+    }
+
+    .progress-bar8 {
+        width: 30%; /* Ajuste a largura para simular o progresso */
+        height: 100%;
+        background-color: #000000;
+        text-align: center;
+        line-height: 30px;
+        color: white;
+        font-weight: bold;
+    }
+
+    .progress-bar9 {
+        width: 55%; /* Ajuste a largura para simular o progresso */
         height: 100%;
         background-color: #000000;
         text-align: center;

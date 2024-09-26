@@ -270,7 +270,7 @@
     }
 
     .progress-bar6 {
-        width: 90%; /* Ajuste a largura para simular o progresso */
+        width: 100%; /* Ajuste a largura para simular o progresso */
         height: 100%;
         background-color: #000000;
         text-align: center;
